@@ -60,7 +60,7 @@ body {
   width: 100%;
   max-width: 450px;
   backdrop-filter: blur(10px);
-  margin: auto; /* Center horizontally if needed */
+  margin: auto; 
 }
 .weather-app h1 {
   margin: 0;
